@@ -1,0 +1,12 @@
+{
+    "name": "@boxctl/pam",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "install": "node-gyp rebuild"
+    },
+    "dependencies": {
+        "node-gyp": "^12.0.0"
+    }
+}
